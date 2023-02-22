@@ -4,7 +4,7 @@ public class GitPractice02 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("this is for pul practice");
+		System.out.println("this is for pull practice");
 
 	}
 
